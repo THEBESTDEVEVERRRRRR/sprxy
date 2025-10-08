@@ -8,8 +8,8 @@
 #subscription-userinfo: upload=60; download=60; total=10737418240000000; expire=1917986400
 #support-url: https://proxy.tush.my.id
 #profile-web-page-url: https://proxy.tush.my.id
-trojan://732d48b6-4e72-4d1a-8e4e-9add163212be@suporte.garena.com:443?sni=gass.clientuser.pages.dev&type=ws&host=gass.clientuser.pages.dev&path=%2FALL1#Random Server
-trojan://732d48b6-4e72-4d1a-8e4e-9add163212be@suporte.garena.com:443?sni=gass.clientuser.pages.dev&type=ws&host=gass.clientuser.pages.dev&path=%2FASIA#Asia
+trojan://732d48b6-4e72-4d1a-8e4e-9add163212be@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FALL1#Random Server
+trojan://732d48b6-4e72-4d1a-8e4e-9add163212be@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FASIA#Asia
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FAD#Andorra
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FAE#United Arab Emirates
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FAL#Albania
