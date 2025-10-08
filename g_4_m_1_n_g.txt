@@ -37,7 +37,7 @@ trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.cl
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FFR#France
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FGB#United Kingdom
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FGE#Georgia
-trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FGI Gibralter
+trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FGI#Gibraltar
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FGR#Greece
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FHK#Hong Kong
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FHR#Croatia
@@ -53,11 +53,9 @@ trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.cl
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FKG#Kyrgyzstan
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FKR#South Korea
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FKZ#Kazakhstan
-trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FLD#LD
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FLT#Lithuania
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FLU#Luxembourg
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FLV#Latvia
-trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FLX#LX
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FMD#Moldova
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FME#Montenegro
 trojan://7047f976-cf8a-4df8-ba0a-d5c8f4e8d442@suporte.garena.com:443?sni=gass.clientuser.workers.dev&type=ws&host=gass.clientuser.workers.dev&path=%2FMK#North Macedonia
